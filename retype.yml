@@ -1,0 +1,27 @@
+input: .
+output: Bumblebee
+locale: en
+url: https://docs.bumblebeebot.xyz
+favicon: ./image/Bumblebee.png
+branding:
+  logo: ./image/Bumblebee.png
+  title: Bumblebee
+  label: Docs
+links:
+  - text: Home
+    icon: home
+    link: home.md
+  - text: Support
+    icon: rocket
+    link: https://docs.bumblebeebot.xyz/support/
+  - text: Website
+    icon: device-desktop
+    link: https://bumblebeebot.xyz/
+  - text: Github
+    icon: mark-github
+    link: https://github.com/ViishSensei
+  - text: Premium
+    icon: tag
+    link: https://docs.bumblebeebot.xyz/support/
+footer:
+  copyright: "Copyright &copy; {{ year }} - [Bumblebee](https://docs.bumblebeebot.xyz/invie/) - All rights reserved."
