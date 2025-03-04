@@ -6,35 +6,34 @@ icon: hubot
 
 # Anti-Bot
 
-Enhance your server's anti-bot protection with Anti-Bot.
+**Enhance your server's defenses** with Anti-Bot to block unauthorized bots and maintain a secure community environment.
 
-## Usage
+---
 
-### Manage Anti-Bot Channels
+## Channel Management
 
-```
-?antibot channel <add/remove> <channel mention/id>
-```
+- **Add Anti-Bot Channel**: `/antibot channel add <channel mention/id>`
+- **Remove Anti-Bot Channel**: `/antibot channel remove <channel mention/id>`
+- **Display Channels List**: `/antibot channel show`
+- **Reset Channels List**: `/antibot channel reset`
 
-### Display Anti-Bot Channels List
+---
 
-```
-?antibot config
-```
+## Bypass Management
 
-### Reset Anti-Bot Channels List
+- **Add User to Bypass**: `/antibot bypass add <user mention/id>`
+- **Remove User from Bypass**: `/antibot bypass remove <user mention/id>`
+- **Show Bypass List**: `/antibot bypass show`
+- **Reset Bypass List**: `/antibot bypass reset`
 
-```
-?antibot reset
-```
+---
 
-## Antibot
+## Features
 
-- Automod
+- **Automated Bot Monitoring**: Prevent unauthorized bots from disrupting your server.
+- **Channel-Specific Configuration**: Customize which channels are protected.
 
-## Cool Down
-
-- None
+---
 
 ## Permissions
 
@@ -44,10 +43,15 @@ Enhance your server's anti-bot protection with Anti-Bot.
 - Extra Owner
 - Extra Admin
 - Administrator
-  +++ Bot Permissions Requirements
+
++++ Bot Permissions Requirements
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

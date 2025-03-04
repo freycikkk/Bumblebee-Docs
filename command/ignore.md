@@ -1,5 +1,5 @@
 ---
-Label: Ignore Channels
+label: Ignore Channels
 order: 108
 icon: hash
 ---
@@ -8,79 +8,48 @@ icon: hash
 
 Specify channels for the bot to ignore in your server.
 
-## Manage Ignored Channels
+---
 
-### Add a Channel to Ignore
+## Ignore Commands
 
-```
-?ignore channel add <channel mention/id>
-```
+- **Add a Channel to Ignore**: `/ignore channel add <channel mention/id>`
+- **Remove a Channel from Ignored List**: `/ignore channel remove <channel mention/id>`
+- **Show Ignored Channels**: `/ignore channel show`
+- **Reset Ignored Channels**: `/ignore channel reset`
 
-### Remove a Channel from Ignored List
+## Bypass Management
 
-```
-?ignore channel remove <channel mention/id>
-```
+- **Add User to Bypass**: `/ignore bypass add <user mention/id>`
+- **Remove User from Bypass**: `/ignore bypass remove <user mention/id>`
+- **Show Bypass List**: `/ignore bypass show`
+- **Reset Bypass List**: `/ignore bypass reset`
 
-### Show Ignored Channels
+---
 
-```
-?ignore channel show
-```
-
-### Reset Ignored Channels
-
-```
-?ignore channel reset
-```
-
-## Manage Bypassed Channels
-
-### Add a Bypassed Channel
-
-```
-?ignore bypass add <channel mention/id>
-```
-
-### Remove a Bypassed Channel
-
-```
-?ignore bypass remove <channel mention/id>
-```
-
-### Show Bypassed Channels
-
-```
-?ignore bypass show
-```
-
-### Reset Bypassed Channels
-
-```
-?ignore bypass reset
-```
-
-## Category
-
-- Ignore
-
-## Cool Down
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
 - Extra Admin
 - Administrator
 - Manage Channels
-  +++ Bot Permissions Requirements
+
++++ **Bot Permissions Requirements**
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

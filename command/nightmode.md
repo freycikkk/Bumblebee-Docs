@@ -8,39 +8,25 @@ icon: moon
 
 Elevate your server's nighttime experience with Nightmode.
 
-## Usage
+---
 
-### Manage Nightmode Roles
+## Nightmode Roles
 
-```
-?nightmode role <add/remove> <role mention/id>
-```
+- **Add Role**: `/nightmode role add <role mention/id>`
+- **Remove Role**: `/nightmode role remove <role mention/id>`
+- **Show Nightmode Roles**: `/nightmode role show`
+- **Reset Nightmode Roles**: `/nightmode role reset`
 
-### Manage Nightmode Bypass Users
+---
 
-```
-?nightmode bypass <add/remove> <user mention/id>
-```
+## Nightmode Bypass
 
-### Display Nightmode Roles and Bypass List
+- **Add User to Bypass**: `/nightmode bypass add <user mention/id>`
+- **Remove User from Bypass**: `/nightmode bypass remove <user mention/id>`
+- **Show Bypass List**: `/nightmode bypass show`
+- **Reset Bypass List**: `/nightmode bypass reset`
 
-```
-?nightmode role/bypass show
-```
-
-### Reset Nightmode Roles or Bypass List
-
-```
-?nightmode role/bypass reset
-```
-
-## Category
-
-- Nightmode
-
-## Cool Down
-
-- None
+---
 
 ## Permissions
 
@@ -50,10 +36,15 @@ Elevate your server's nighttime experience with Nightmode.
 - Extra Owner
 - Extra Admin
 - Administrator
-  +++ Bot Permissions Requirements
+
++++ Bot Permissions Requirements
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

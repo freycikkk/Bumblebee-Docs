@@ -1,6 +1,6 @@
 ---
-Label: Auto Responder
-Order: 105
+label: Auto Responder
+order: 105
 Icon: clock
 ---
 
@@ -8,39 +8,31 @@ Icon: clock
 
 Set up automatic replies to specific messages or commands within the server.
 
-## Usage
+---
 
-### Add an Auto-Responder
+## Autoresponder Commands
 
-```
-?autoresponder add <trigger> <response>
-```
+- **Guide for Auto-Responder**: `/autoresponder guide`
+- **Create a New Auto-Responder**: `/autoresponder create <trigger>`
+- **Edit an Existing Auto-Responder**: `/autoresponder edit <trigger>`
+- **Remove an Auto-Responder**: `/autoresponder remove <trigger>`
+- **Auto-Delete an Auto-Responder after a Set Time**: `/autoresponder autodel <trigger> <time>`
+- **Show All Auto-Responder Configurations**: `/autoresponder show`
+- **Reset Auto-Responder Settings**: `/autoresponder reset`
 
-### Remove an Auto-Responder
-
-```
-?autoresponder remove <trigger>
-```
-
-### View Auto-Responder Configuration
-
-```
-?autoresponder config
-```
-
-### Reset Auto-Responder Settings
-
-```
-?autoresponder reset
-```
+---
 
 ## Category
 
 - Auto-Responder
 
+---
+
 ## Cooldown
 
 - None
+
+---
 
 ## Permissions
 
@@ -53,9 +45,12 @@ Set up automatic replies to specific messages or commands within the server.
 
 +++ **Bot Permissions Requirements**
 
-- Administrator  
-  +++
+- Administrator
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

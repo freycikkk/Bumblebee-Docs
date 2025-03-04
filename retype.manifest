@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-01-17T18:39:12Z",
+  "created": "2025-03-04T16:16:21Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -143,29 +143,42 @@
       "path": "features\\index.html"
     },
     {
-      "path": "image\\antinukedisable.png"
+      "path": "image\\antinukedisable.png",
+      "old": true
     },
     {
-      "path": "image\\antinukeenable.png"
+      "path": "image\\antinukeenable.png",
+      "old": true
     },
     {
-      "path": "image\\antinukepunish.png"
+      "path": "image\\antinukepunish.png",
+      "old": true
     },
     {
-      "path": "image\\antinukereset.png"
+      "path": "image\\antinukereset.png",
+      "old": true
     },
     {
-      "path": "image\\antinukeshow.png"
+      "path": "image\\antinukeshow.png",
+      "old": true
     },
     {
-      "path": "image\\bumblebee.png"
+      "path": "image\\bumblebee.png",
+      "old": true
     },
     {
       "path": "image\\rogue.png",
       "old": true
     },
     {
-      "path": "image\\whitelistadd.png"
+      "path": "image\\whitelistadd.png",
+      "old": true
+    },
+    {
+      "path": "images\\banner.png"
+    },
+    {
+      "path": "images\\bumblebee.png"
     },
     {
       "path": "index.html"
@@ -383,7 +396,8 @@
       "path": "support\\index.html"
     },
     {
-      "path": "team\\index.html"
+      "path": "team\\index.html",
+      "old": true
     },
     {
       "path": "term\\index.html"

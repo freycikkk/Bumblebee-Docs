@@ -8,43 +8,33 @@ icon: paperclip
 
 Configure media-related settings for your server.
 
-## Manage Media Channels
+---
 
-### Add a Media Channel:
+## Media Commands
 
-```
-?media channel add <channel mention/id>
-```
+- **Add a Media Channel**: `/media channel add <channel mention/id>`
+- **Remove a Media Channel**: `/media channel remove <channel mention/id>`
+- **Configure Media Settings**: `/media channel show`
+- **Reset Media Settings**: `/media channel reset`
 
-### Remove a Media Channel:
+## Bypass Management
 
-```
-?media channel remove <channel mention/id>
-```
+- **Add User to Bypass**: `/media bypass add <user mention/id>`
+- **Remove User from Bypass**: `/media bypass remove <user mention/id>`
+- **Show Bypass List**: `/media bypass show`
+- **Reset Bypass List**: `/media bypass reset`
 
-### Configure Media Settings:
+---
 
-```
-?media config
-```
-
-### Reset Media Settings:
-
-```
-?media reset
-```
-
-## Category
-
-- Media
-
-## Cool Down
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
@@ -52,10 +42,15 @@ Configure media-related settings for your server.
 - Administrator
 - Manage Channels
 - Manage Messages
-  +++ Bot Permissions Requirements
+
++++ **Bot Permissions Requirements**
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

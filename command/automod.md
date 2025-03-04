@@ -6,77 +6,53 @@ icon: shield
 
 # Automod
 
-## Anti Pornography
+**Maintain a safe and engaging server environment** with Bumblebee's advanced Automod features. Customize filters to prevent harmful or disruptive content effectively.
 
-Prevent the sharing of inappropriate images, links, and videos.
+---
 
-### Enable Anti Pornography:
+## Quick Commands
 
-```
-?automod anti pornography enable
-```
+### Anti Profanity Filter
 
-### Disable Anti Pornography:
+- **Enable**: `/automod profanity enable`
+- **Disable**: `/automod profanity disable`
 
-```
-?automod anti pornography disable
-```
+### Anti Curse Words
 
-## Anti Toxicity
+- **Enable**: `/automod curse enable`
+- **Disable**: `/automod curse disable`
 
-Prevent the sharing of toxic content, including messages, images, links, and videos.
+### Anti Message Spam
 
-### Enable Anti Toxicity:
+- **Enable**: `/automod message enable`
+- **Disable**: `/automod message disable`
 
-```
-?automod anti toxicity enable
-```
+### Anti Mention Spam
 
-### Disable Anti Toxicity:
+- **Enable**: `/automod mention enable`
+- **Disable**: `/automod mention disable`
 
-```
-?automod anti toxicity disable
-```
+### Anti Curse Profile
 
-## Anti Message Spam
+- **Enable**: `/automod profile enable`
+- **Disable**: `/automod profile disable`
 
-Prevent the occurrence of message spam by implementing effective filters and monitoring systems.
+### Show Automod Settings
 
-### Enable Anti Message Spam:
+- **Show**: `/automod show`
 
-```
-?automod anti message spam enable
-```
+### Reset Automod Settings
 
-### Disable Anti Message Spam:
+- **Reset**: `/automod reset`
 
-```
-?automod anti message spam disable
-```
+---
 
-## Anti Mention Spam
+## Features
 
-Prevent mention spam by implementing measures to detect and mitigate excessive or inappropriate mentions within the communication platform.
+- **Comprehensive Filters**: Block inappropriate content, toxic behavior, spam, and excessive mentions.
+- **Customizable Settings**: Tailor protection to meet your server's needs.
 
-### Enable Anti Mention Spam:
-
-```
-?automod anti mention spam enable
-```
-
-### Disable Anti Mention Spam:
-
-```
-?automod anti mention spam disable
-```
-
-## Category
-
-- Automod
-
-## Cool Down
-
-- None
+---
 
 ## Permissions
 
@@ -86,10 +62,15 @@ Prevent mention spam by implementing measures to detect and mitigate excessive o
 - Extra Owner
 - Extra Admin
 - Administrator
-  +++ Bot Permissions Requirements
+
++++ Bot Permissions Requirements
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

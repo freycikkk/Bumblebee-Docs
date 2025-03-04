@@ -6,107 +6,44 @@ icon: shield-check
 
 # Anti-Nuke
 
-Enhance your server's protection with Anti-Nuke to prevent malicious activities.
+**Protect your server with Anti-Nuke** to prevent malicious activities and safeguard your community from disruptive actions.
 
-## Usage
+---
 
-### Enable Anti-Nuke
+## Antinuke Commands
 
-```
-?antinuke enable
-```
+- **Enable Anti-Nuke**: `/antinuke enable`
+- **Disable Anti-Nuke**: `/antinuke disable`
+- **Set Punishment**: `/antinuke punishment`
+- **Check Status**: `/antinuke show`
+- **Reset Settings**: `/antinuke reset`
 
-![](/image/AntinukeEnable.png)
+---
 
-### Disable Anti-Nuke
+## User Whitelist Management
 
-```
-?antinuke disable
-```
+- **Add User to Whitelist**: `/antinuke whitelist add <user mention/id>`
+- **Remove User from Whitelist**: `/antinuke whitelist remove <user mention/id>`
+- **Show Whitelisted Users**: `/antinuke whitelist show`
+- **Reset Whitelist**: `/antinuke whitelist reset`
 
-![](/image/AntinukeDisable.png)
+---
 
-### Punishment for Triggering Anti-Nuke
+## Role Whitelist Management
 
-```
-?antinuke punishment
-```
+- **Add Role**: `/antinuke role add <role mention/id>`
+- **Remove Role**: `/antinuke role remove <role mention/id>`
+- **Show Protected Roles**: `/antinuke role show`
+- **Reset Protected Roles**: `/antinuke role reset`
 
-![](/image/AntinukePunish.png)
+---
 
-### Display Anti-Nuke Status
+## Features
 
-```
-?antinuke show
-```
+- **Comprehensive Protection**: Safeguard against nuking attempts, including mass bans and role deletions.
+- **Customizable Settings**: Tailor Anti-Nuke to suit your server's unique needs.
 
-![](/image/AntinukeShow.png)
-
-### Reset Anti-Nuke Settings
-
-```
-?antinuke reset
-```
-
-![](/image/AntinukeReset.png)
-
-### Whitelist a User
-
-```
-?antinuke whitelist add <user mention/id>
-```
-
-![](/image/WhitelistAdd.png)
-
-### Remove a User from the Whitelist
-
-```
-?antinuke whitelist remove <user mention/id>
-```
-
-### Show Whitelisted Users
-
-```
-?antinuke whitelist show
-```
-
-### Reset Whitelisted Users
-
-```
-?antinuke whitelist reset
-```
-
-### Add a Role to Anti-Nuke Protection
-
-```
-?antinuke role add <role mention/id>
-```
-
-### Remove a Role from Anti-Nuke Protection
-
-```
-?antinuke role remove <role mention/id>
-```
-
-### Show Anti-Nuke Protected Roles
-
-```
-?antinuke role show
-```
-
-### Reset Anti-Nuke Protected Roles
-
-```
-?antinuke role reset
-```
-
-## Anti-Nuke
-
-- Protect your server from nuking attempts.
-
-## Cool Down
-
-- None
+---
 
 ## Permissions
 
@@ -117,12 +54,14 @@ Enhance your server's protection with Anti-Nuke to prevent malicious activities.
 - Extra Admin
 - Administrator
 
-  +++ Bot Permissions Requirements
++++ Bot Permissions Requirements
 
 - Administrator
 
 +++
 
-## Requirements
+---
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

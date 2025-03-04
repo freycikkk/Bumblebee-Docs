@@ -1,5 +1,5 @@
 ---
-Label: Boost Messages
+label: Boost Messages
 order: 111
 icon: rocket
 ---
@@ -8,67 +8,30 @@ icon: rocket
 
 Customize automated boost messages and settings for server boosters.
 
-## Create Boost Message
+---
 
-### Set Up a Boost Message in a Channel
+## Boost Commands
 
-```
-?boost create <boost id> <channel mention/id>
-```
+- **Set Up a Boost Message in a Channel**: `/boost create <boost id> <channel mention/id>`
+- **Edit a Boost Message**: `/boost edit <boost id>`
+- **Remove a Boost Message**: `/boost remove <boost id>`
+- **Set Auto-Delete Timer for a Boost Message**: `/boost autodel <boost id> <time>`
+- **Set New Channel for a Boost Message**: `/boost channel <boost id> <channel mention/id>`
+- **Test a Boost Message**: `/boost test <boost id>`
+- **Display Current Boost Settings**: `/boost show`
+- **Reset All Boost Message Settings**: `/boost reset`
 
-### Edit a Boost Message
+---
 
-```
-?boost edit <boost id>
-```
-
-### Remove a Boost Message
-
-```
-?boost remove <boost id>
-```
-
-## Manage Auto-Delete for Boost Messages
-
-### Set Auto-Delete Timer for a Boost Message
-
-```
-?boost autodel <boost id> <time>
-```
-
-### Test a Boost Message
-
-```
-?boost test <boost id>
-```
-
-## View Boost Settings
-
-### Display Current Boost Settings
-
-```
-?boost show
-```
-
-## Reset Boost Settings
-
-### Reset All Boost Message Settings
-
-```
-?boost reset
-```
-
-## Category
-
-- Celebration
-
-## Cool Down
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
@@ -76,12 +39,14 @@ Customize automated boost messages and settings for server boosters.
 - Manage Guild
 - Administrator
 
-+++ Bot Permissions Requirements
++++ **Bot Permissions Requirements**
 
 - Administrator
 
 +++
 
-## Requirements
+---
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

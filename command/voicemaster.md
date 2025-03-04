@@ -8,37 +8,26 @@ icon: copilot
 
 Configure voice-master-related settings for your server.
 
-## Manage Voice Master
+---
 
-### Setup Voice Master Settings:
+## Commands
 
-```
-?tempchannel setup
-```
+- **Setup Voice Master Settings**: `/tempchannel setup`
+- **Show Voice Master Settings**: `/tempchannel show`
+- **Remove Voice Master Settings**: `/tempchannel reset`
+- **Guide for Voice Master Settings**: `/tempchannel guide`
 
-### Remove Voice Master Settings:
+---
 
-```
-?tempchannel reset
-```
-
-### Guide for Voice Master Settings:
-
-```
-?tempchannel guide
-```
-
-## Category
-
-Voice Master
-
-## Cool Down
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
@@ -46,11 +35,14 @@ Voice Master
 - Manage Channels
 - Administrator
 
-+++ Bot Permissions Requirements
++++ **Bot Permissions Requirements**
 
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

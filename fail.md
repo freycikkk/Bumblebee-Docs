@@ -1,8 +1,5 @@
 ---
-title: Premium Activation Failed
 visibility: hidden
-description: Error page for Bumblebee Premium activation.
-icon: ⚠️
 ---
 
 # **Premium Activation Failed ⚠️**

@@ -1,55 +1,58 @@
 ---
 label: Quick Start
-layout: quick
 icon: rocket
 order: 119
 ---
 
 # Quick Start
 
-## Introduction to Bumblebee
+## Unleash the Power of Bumblebee
 
-Bumblebee: The Pinnacle of Multipurpose Bots, Setting New Standards in Advanced Features. In contrast to conventional bots, Bumblebee unifies all your requirements into a single, formidable entity, redefining versatility in bot functionality.
+If you're searching for a bot that offers everything your server needs, look no further! Here's what Bumblebee can do:
 
-# Unleash the Power of Bumblebee
+- **Antinuke**: Protect your server from malicious attacks.
+- **Automod**: Keep your community safe with advanced moderation tools.
+- **Nightmode**: Automatically manage roles during designated times.
+- **AntiBot**: Secure your server from unauthorized bot entries.
+- **Giveaways**: Run exciting giveaways effortlessly.
+- **Moderation**: Advanced tools to maintain server order.
+- **Autorole & Custom Roles**: Streamline role assignments.
+- **Joindm & Welcome Messages**: Greet your members with style.
+- **Boost Messages**: Celebrate your server boosters.
+- **Sticky & Auto-Responder Messages**: Make important messages stay visible and engage with automated responses.
+- **Counting, Auto-React, and Voice Roles**: Interactive and fun features to enrich your server.
+- **Temp Voice Channels**: Create on-demand voice spaces.
+- **Media Channels, Logs, and Utility**: Powerful tools for enhanced management.
 
-If you're in pursuit of a bot with a comprehensive feature set, your search ends here with Bumblebee. Prominent features of Bumblebee encompass:
-
-- **Server Protection**
-- **Automated Moderation**
-- **Nightmode Configuration**
-- **Anti-Bot System**
-- **Autorole Assignment**
-- **Autoreact Messages**
-- **Server Configuration Flexibility**
-- **Static Voice Roles**
-- **Dynamic Temp Voice Channels**
-- **Media Channels Management**
-- **Utility Commands**
-- **Welcome Messages**
-- **Boost Messages**
-- **Sticky Commands**
-- **Guild No Prefix Management**
+### Let’s Get Started!
 
 !!!
-To embark on this guide, your first step is to invite Bumblebee with the necessary permissions.
+To begin your journey with Bumblebee, invite the bot with the required permissions:
 !!!
 
-+++ Bot Invitations
-Administrator Permissions - [Authorize with Admin Permissions](https://docs.bumblebeebot.xyz/invite/)
++++ Invite Bumblebee
 
-Limited Permissions - [Authorize with Minimum Permissions](https://discord.com/oauth2/authorize?client_id=1232384723188449283&permissions=0&scope=bot+applications.commands)
-+++
-External Links
-Vote for Bumblebee - [Support Us on top.gg](https://docs.bumblebeebot.xyz/vote/)
+- **Admin Permissions**: [Invite with Admin Permissions](https://docs.bumblebeebot.xyz/invite/)
+- **Minimum Permissions**: [Invite with Minimum Permissions](https://discord.com/oauth2/authorize?client_id=1232384723188449283&permissions=0&scope=bot+applications.commands)
+  +++
 
-Need Assistance? - [Join Our Support Server](https://docs.bumblebeebot.xyz/support/)
-+++
++++ External Links
+
+- **Vote for Bumblebee**: [Support Us on top.gg](https://docs.bumblebeebot.xyz/vote/)
+- **Need Help?**: [Join Our Support Server](https://docs.bumblebeebot.xyz/support/)
+  +++
+
+---
 
 ## Role Positioning Matters
 
 !!!danger
-This step is of paramount importance—do not overlook it!
+This step is crucial—do not overlook it!
 !!!
 
-Upon successfully adding **Bumblebee** to your server with the **required permissions**, you will observe the emergence of a new Bumblebee role within your server. It is imperative that you **position this role at the highest or a superior level compared to moderator roles**.
+After inviting **Bumblebee** to your server with the appropriate permissions, you'll notice a new Bumblebee role created automatically. **Ensure the following for optimal functionality**:
+
+1. **Position the Bumblebee role at the highest level**, above all moderator roles.
+2. **(Optional)** Add a backup role with Admin permissions to ensure uninterrupted bot operation in case of role changes.
+
+By correctly positioning the Bumblebee role, you guarantee the bot’s ability to manage and protect your server seamlessly.

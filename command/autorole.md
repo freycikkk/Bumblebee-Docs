@@ -1,5 +1,5 @@
 ---
-Label: Autorole
+label: Autorole
 order: 113
 icon: person
 ---
@@ -8,71 +8,64 @@ icon: person
 
 Automatically assign roles to new members and bots.
 
+---
+
 ## Manage Autorole for Humans
 
-### Add a Role for Humans
+- **Add a Role for Humans**: `/autorole humans add <role mention/id>`
+- **Remove a Role for Humans**: `/autorole humans remove <role mention/id>`
 
-```
-?autorole humans add <role mention/id>
-```
-
-### Remove a Role for Humans
-
-```
-?autorole humans remove <role mention/id>
-```
+---
 
 ## Manage Autorole for Bots
 
-### Add a Role for Bots
+- **Add a Role for Bots**: `/autorole bots add <role mention/id>`
+- **Remove a Role for Bots**: `/autorole bots remove <role mention/id>`
 
-```
-?autorole bots add <role mention/id>
-```
-
-### Remove a Role for Bots
-
-```
-?autorole bots remove <role mention/id>
-```
+---
 
 ## Configure Autorole
 
-### Configure Autorole Settings
+- **Configure Autorole Settings**: `/autorole config`
 
-```
-?autorole config
-```
+---
 
 ## Reset Autorole
 
-### Reset Autorole Settings
+- **Reset Autorole Settings**: `/autorole reset`
 
-```
-?autorole reset
-```
+---
 
 ## Category
 
 - Auto Roles
 
-## Cool Down
+---
+
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
 - Extra Admin
 - Manage Guild
 - Administrator
-  +++ Bot Permissions Requirements
+
++++ **Bot Permissions Requirements**
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

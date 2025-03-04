@@ -8,45 +8,23 @@ icon: id-badge
 
 Custom roles allow server administrators to assign specific permissions and organize users into groups based on their roles and privileges within the server.
 
-## Usage
+---
 
-### Add a Custom Role
+## Custom Roles Commands
 
-```
-?setup add <name> <role mention/id>
-```
+- **Add a Custom Role**: `/setup add <name> <role mention/id>`
+- **Remove a Custom Role**: `/setup remove <name>`
+- **Set Required Role for Custom Role**: `/setup reqrole <role mention/id>`
+- **View Custom Role Configuration**: `/setup config`
+- **Reset Custom Roles**: `/setup reset`
 
-### Remove a Custom Role
-
-```
-?setup remove <name>
-```
-
-### Set Required Role for Custom Role
-
-```
-?setup reqrole <role mention/id>
-```
-
-### View Custom Role Configuration
-
-```
-?setup config
-```
-
-### Reset Custom Roles
-
-```
-?setup reset
-```
-
-## Category
-
-- Custom Roles
+---
 
 ## Cooldown
 
 - None
+
+---
 
 ## Permissions
 
@@ -59,9 +37,12 @@ Custom roles allow server administrators to assign specific permissions and orga
 
 +++ **Bot Permissions Requirements**
 
-- Administrator  
-  +++
+- Administrator
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

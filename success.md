@@ -1,8 +1,5 @@
 ---
-title: Premium Activated Successfully!
 visibility: hidden
-description: Confirmation page for Bumblebee Premium activation.
-icon: 🎉
 ---
 
 # **Premium Activated Successfully! 🎉**

@@ -1,5 +1,5 @@
 ---
-Label: Autoreact
+label: Autoreact
 order: 112
 icon: alert
 ---
@@ -8,57 +8,25 @@ icon: alert
 
 Automatically react to messages with specified emojis in your server.
 
+---
+
 ## Manage AutoReact Triggers
 
-### Add an Emoji Reaction to a Trigger
+- **Add an Emoji Reaction to a Trigger**: `/autoreact trigger add <trigger> <emoji mention/id>`
+- **Remove a Trigger Reaction**: `/autoreact trigger remove <trigger>`
+- **Show All Trigger Reactions**: `/autoreact trigger show`
+- **Reset All Trigger Reactions**: `/autoreact trigger reset`
 
-```
-?autoreact trigger add <trigger> <emoji mention/id>
-```
-
-### Remove a Trigger Reaction
-
-```
-?autoreact trigger remove <trigger>
-```
-
-### Show All Trigger Reactions
-
-```
-?autoreact trigger show
-```
-
-### Reset All Trigger Reactions
-
-```
-?autoreact trigger reset
-```
+---
 
 ## Manage AutoReact Channels
 
-### Add Emoji Reactions to a Channel
+- **Add Emoji Reactions to a Channel**: `/autoreact channel add <channel mention/id> <emoji mention/id>`
+- **Remove AutoReact from a Channel**: `/autoreact channel remove <channel mention/id>`
+- **Show Channels with AutoReact**: `/autoreact channel show`
+- **Reset All Channel Reactions**: `/autoreact channel reset`
 
-```
-?autoreact channel add <channel mention/id> <emoji mention/id>
-```
-
-### Remove AutoReact from a Channel
-
-```
-?autoreact channel remove <channel mention/id>
-```
-
-### Show Channels with AutoReact
-
-```
-?autoreact channel show
-```
-
-### Reset All Channel Reactions
-
-```
-?autoreact channel reset
-```
+---
 
 ## Category
 
@@ -67,6 +35,8 @@ Automatically react to messages with specified emojis in your server.
 ## Cool Down
 
 - None
+
+---
 
 ## Permissions
 
@@ -84,6 +54,8 @@ Automatically react to messages with specified emojis in your server.
 
 +++
 
-## Requirements
+---
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]

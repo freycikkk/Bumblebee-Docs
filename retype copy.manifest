@@ -1,0 +1,409 @@
+{
+  "version": "3.6.0",
+  "created": "2025-02-09T11:13:07Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "command\\antibot\\index.html"
+    },
+    {
+      "path": "command\\antinuke\\index.html"
+    },
+    {
+      "path": "command\\automod\\index.html"
+    },
+    {
+      "path": "command\\autoreact\\index.html"
+    },
+    {
+      "path": "command\\autoresponder\\index.html"
+    },
+    {
+      "path": "command\\autorole\\index.html"
+    },
+    {
+      "path": "command\\boost\\index.html"
+    },
+    {
+      "path": "command\\customroles\\index.html"
+    },
+    {
+      "path": "command\\extra\\index.html"
+    },
+    {
+      "path": "command\\guildnoprefix\\index.html"
+    },
+    {
+      "path": "command\\ignore\\index.html"
+    },
+    {
+      "path": "command\\media\\index.html"
+    },
+    {
+      "path": "command\\moderation\\index.html"
+    },
+    {
+      "path": "command\\nightmode\\index.html"
+    },
+    {
+      "path": "command\\sticky\\index.html"
+    },
+    {
+      "path": "command\\utility\\index.html"
+    },
+    {
+      "path": "command\\voicemaster\\index.html"
+    },
+    {
+      "path": "command\\voicerole\\index.html"
+    },
+    {
+      "path": "command\\welcome\\index.html"
+    },
+    {
+      "path": "commands\\antinuke\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\automod\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\autoresponder\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\autorole\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\custom\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\customroles\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\extra\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\games\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\ignore\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\media\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\moderation\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\nightmode\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\server\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\utility\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\voice\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\voicemaster\\index.html",
+      "old": true
+    },
+    {
+      "path": "commands\\welcome\\index.html",
+      "old": true
+    },
+    {
+      "path": "fail\\index.html"
+    },
+    {
+      "path": "features\\index.html"
+    },
+    {
+      "path": "image\\antinukedisable.png",
+      "old": true
+    },
+    {
+      "path": "image\\antinukeenable.png",
+      "old": true
+    },
+    {
+      "path": "image\\antinukepunish.png",
+      "old": true
+    },
+    {
+      "path": "image\\antinukereset.png",
+      "old": true
+    },
+    {
+      "path": "image\\antinukeshow.png",
+      "old": true
+    },
+    {
+      "path": "image\\bumblebee.png",
+      "old": true
+    },
+    {
+      "path": "image\\rogue.png",
+      "old": true
+    },
+    {
+      "path": "image\\whitelistadd.png",
+      "old": true
+    },
+    {
+      "path": "images\\banner.png"
+    },
+    {
+      "path": "images\\bumblebee.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "invite\\index.html"
+    },
+    {
+      "path": "policy\\index.html"
+    },
+    {
+      "path": "premium\\index.html"
+    },
+    {
+      "path": "quick\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rogue\\404.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\antinuke\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\automod\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\autorole\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\custom\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\extra\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\games\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\ignore\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\media\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\moderation\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\nightmode\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\utility\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\voice\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\commands\\welcome\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\features\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\image\\rogue.png",
+      "old": true
+    },
+    {
+      "path": "rogue\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\invite\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\policy\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\premium\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\quick\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\css\\retype.css",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\fonts\\inter-italic-latin-var.woff2",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\fonts\\inter-roman-latin-var.woff2",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\js\\config.js",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\js\\lunr.js",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\js\\retype.js",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\js\\search.json",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\lunr.js.license.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\mermaid.js.license.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\prism.js.license.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\retype.js.license.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\resources\\retype.license.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\robots.txt",
+      "old": true
+    },
+    {
+      "path": "rogue\\support\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\team\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\term\\index.html",
+      "old": true
+    },
+    {
+      "path": "rogue\\vote\\index.html",
+      "old": true
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "success\\index.html"
+    },
+    {
+      "path": "support\\index.html"
+    },
+    {
+      "path": "team\\index.html",
+      "old": true
+    },
+    {
+      "path": "term\\index.html"
+    },
+    {
+      "path": "vote\\index.html"
+    }
+  ]
+}

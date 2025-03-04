@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "retype start",
+    "build": "retype build"
+  }
+}

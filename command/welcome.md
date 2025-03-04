@@ -1,5 +1,5 @@
 ---
-Label: Welcome Messages
+label: Welcome Messages
 order: 112
 icon: sign-in
 ---
@@ -8,77 +8,45 @@ icon: sign-in
 
 Customize automated welcome messages and settings for new members and bots.
 
-## Create Welcome Message
+---
 
-### Set Up a Welcome Message in a Channel
+## Welcome Commands
 
-```
-?welcome create <welcome id> <channel mention/id>
-```
+- **Set Up a Welcome Message in a Channel**: `/welcome create <welcome id> <channel mention/id>`
+- **Edit a Welcome Message**: `/welcome edit <welcome id>`
+- **Remove a Welcome Message**: `/welcome remove <welcome id>`
+- **Set Auto-Delete Timer for a Welcome Message**: `/welcome autodel <welcome id> <time>`
+- **Set New Channel for a Welcome Message**: `/welcome channel <welcome id> <channel mention/id>`
+- **Test a Welcome Message**: `/welcome test <welcome id>`
+- **Display Current Welcome Settings**: `/welcome show`
+- **Reset All Welcome Message Settings**: `/welcome reset`
 
-### Edit a Welcome Message
+---
 
-```
-?welcome edit <welcome id>
-```
-
-### Remove a Welcome Message
-
-```
-?welcome remove <welcome id>
-```
-
-## Manage Auto-Delete for Welcome Messages
-
-### Set Auto-Delete Timer for a Welcome Message
-
-```
-?welcome autodel <welcome id> <time>
-```
-
-### Test a Welcome Message
-
-```
-?welcome test <welcome id>
-```
-
-## View Welcome Settings
-
-### Display Current Welcome Settings
-
-```
-?welcome show
-```
-
-## Reset Welcome Settings
-
-### Reset All Welcome Message Settings
-
-```
-?welcome reset
-```
-
-## Category
-
-- Greet
-
-## Cool Down
+## Cooldown
 
 - None
 
+---
+
 ## Permissions
 
-+++ User Permissions Requirements
++++ **User Permissions Requirements**
 
 - Server Owner
 - Extra Owner
 - Extra Admin
 - Manage Guild
 - Administrator
-  +++ Bot Permissions Requirements
+
++++ **Bot Permissions Requirements**
+
 - Administrator
-  +++
 
-## Requirements
++++
 
-[!badge variant="danger" text="⚠️ Premium may be required after reaching the limit."]
+---
+
+## Additional Notes
+
+[!badge variant="danger" text="⚠️ Premium may be required after reaching the limits."]
