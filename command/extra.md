@@ -14,12 +14,16 @@ Manage additional access permissions for your server.
 
 - **Setup Full Extra Access**: `/extra interface`
 
+---
+
 ### Manage Extra Owners
 
 - **Add an Extra Owner**: `/extra owner add <user mention/id>`
 - **Remove an Extra Owner**: `/extra owner remove <user mention/id>`
 - **Show Extra Owners**: `/extra owner show`
 - **Reset Extra Owners**: `/extra owner reset`
+
+---
 
 ### Manage Extra Admins
 

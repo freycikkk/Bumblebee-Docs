@@ -14,34 +14,48 @@ icon: shield
 
 - **Setup Full Automod**: `/automod interface`
 
+---
+
 ### Anti Profanity Filter
 
 - **Enable**: `/automod profanity enable`
 - **Disable**: `/automod profanity disable`
+
+---
 
 ### Anti Curse Words
 
 - **Enable**: `/automod curse enable`
 - **Disable**: `/automod curse disable`
 
+---
+
 ### Anti Message Spam
 
 - **Enable**: `/automod message enable`
 - **Disable**: `/automod message disable`
+
+---
 
 ### Anti Mention Spam
 
 - **Enable**: `/automod mention enable`
 - **Disable**: `/automod mention disable`
 
+---
+
 ### Anti Curse Profile
 
 - **Enable**: `/automod profile enable`
 - **Disable**: `/automod profile disable`
 
+---
+
 ### Show Automod Settings
 
 - **Show**: `/automod show`
+
+---
 
 ### Reset Automod Settings
 

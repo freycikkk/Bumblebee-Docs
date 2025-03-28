@@ -14,12 +14,16 @@ Configure media-related settings for your server.
 
 - **Setup Full Media**: `/media interface`
 
+---
+
 ## Media Commands
 
 - **Add a Media Channel**: `/media channel add <channel mention/id>`
 - **Remove a Media Channel**: `/media channel remove <channel mention/id>`
 - **Configure Media Settings**: `/media channel show`
 - **Reset Media Settings**: `/media channel reset`
+
+---
 
 ## Bypass Management
 

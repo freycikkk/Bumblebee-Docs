@@ -23,6 +23,8 @@ Specify channels for the bot to ignore in your server.
 - **Show Ignored Channels**: `/ignore channel show`
 - **Reset Ignored Channels**: `/ignore channel reset`
 
+---
+
 ## Bypass Management
 
 - **Add User to Bypass**: `/ignore bypass add <user mention/id>`
