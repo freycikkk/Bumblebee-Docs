@@ -10,6 +10,10 @@ Manage users who can execute commands without a prefix in your server.
 
 ---
 
+## Quick Setup
+
+- **Setup Full Guild No Prefix**: `/guildnoprefix interface`
+
 ## Commands
 
 - **Add a User to No Prefix List**: `/guildnoprefix add <user>`

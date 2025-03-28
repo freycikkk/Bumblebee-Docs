@@ -10,6 +10,12 @@ Specify channels for the bot to ignore in your server.
 
 ---
 
+## Quick Setup
+
+- **Setup Full Ignore**: `/ignore interface`
+
+---
+
 ## Ignore Commands
 
 - **Add a Channel to Ignore**: `/ignore channel add <channel mention/id>`

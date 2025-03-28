@@ -10,7 +10,9 @@ Manage additional access permissions for your server.
 
 ---
 
-## Extra Access Commands
+## Quick Setup
+
+- **Setup Full Extra Access**: `/extra interface`
 
 ### Manage Extra Owners
 

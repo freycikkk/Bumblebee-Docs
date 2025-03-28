@@ -10,6 +10,12 @@ icon: hubot
 
 ---
 
+## Quick Setup
+
+- **Setup Full Anti-Bot**: `/antibot interface`
+
+---
+
 ## Channel Management
 
 - **Add Anti-Bot Channel**: `/antibot channel add <channel mention/id>`

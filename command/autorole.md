@@ -10,6 +10,12 @@ Automatically assign roles to new members and bots.
 
 ---
 
+## Quick Setup
+
+- **Setup Full Autorole**: `/autorole interface`
+
+---
+
 ## Manage Autorole for Humans
 
 - **Add a Role for Humans**: `/autorole humans add <role mention/id>`

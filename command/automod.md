@@ -10,7 +10,9 @@ icon: shield
 
 ---
 
-## Quick Commands
+## Quick Setup
+
+- **Setup Full Automod**: `/automod interface`
 
 ### Anti Profanity Filter
 

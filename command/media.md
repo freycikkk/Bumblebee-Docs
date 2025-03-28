@@ -10,6 +10,10 @@ Configure media-related settings for your server.
 
 ---
 
+## Quick Setup
+
+- **Setup Full Media**: `/media interface`
+
 ## Media Commands
 
 - **Add a Media Channel**: `/media channel add <channel mention/id>`

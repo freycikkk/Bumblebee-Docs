@@ -10,6 +10,10 @@ Elevate your server's nighttime experience with Nightmode.
 
 ---
 
+## Quick Setup
+
+- **Setup Full Nightmode**: `/nightmode interface`
+
 ## Nightmode Roles
 
 - **Add Role**: `/nightmode role add <role mention/id>`

@@ -10,6 +10,12 @@ icon: shield-check
 
 ---
 
+## Quick Setup
+
+- **Setup Full Anti-Nuke**: `/antinuke interface`
+
+---
+
 ## Antinuke Commands
 
 - **Enable Anti-Nuke**: `/antinuke enable`
